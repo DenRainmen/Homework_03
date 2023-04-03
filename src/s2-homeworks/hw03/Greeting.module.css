@@ -1,0 +1,57 @@
+.greetingForm {
+	margin-bottom: 20px;;
+}
+
+.inputAndButtonContainer {
+}
+
+.error {
+	color: red;
+}
+
+.input {
+	outline: 1px solid black;
+	border: 1px solid black;
+}
+
+.input:focus {
+	outline: 1.5px solid black;
+	border: 1.5px solid black;
+}
+
+.errorInput {
+	border: 3px solid red;
+	outline: 0px solid black;
+}
+
+.button {
+	display: inline-block;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+color: #FFFFFF;
+background: #0066CC;
+border-radius: 3px;
+margin-left: 5px;
+border: none;
+}
+
+.button:focus {
+	
+}
+
+.button:active {
+}
+
+.button:disabled {
+	opacity: 0.5;
+}
+
+.text {
+	margin:50px 0 10px 0;
+}
+
+.greeting {
+}
